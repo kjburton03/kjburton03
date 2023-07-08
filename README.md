@@ -3,7 +3,7 @@
       
 # 💫 About Me:
 
-I started my journey in software development back in 2004 styling <br>my personal Xanga and mySpace pages with the coolest backgrounds <br>and glitter words in town. Fast forward through high school and a <br>decade Bartending and I am back at it again having more fun then <br>ever. 
+My journey in software development began in 2004 when I started styling my personal Xanga and MySpace pages with the trendiest backgrounds and captivating glitter words. After progressing through high school and spending a decade as a bartender, I've found myself immersed in software development once more, enjoying it more than ever before.
 
 
 ## 🌐 Socials:
