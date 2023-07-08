@@ -1,6 +1,6 @@
 # Welcome to my coding playground 🛝
 ## Stick around a while and you might see a couple things in the making 🛠
-▫ NashMurals<br><br>            -> a group project post NSS designing a website to help tourists find their favorite Nashville Murals<br><br>            -> Javascript, HTML, CSS, React, Python, Django <br><br>    ▫ Responsibly Irresponsible<br><br>            -> a project<br><br>            -> Javascript, HTML, CSS, React, Python, Django <br><br>    ▫ NashVols - Last Call Volunteers<br><br>            -> <br><br>            -> Javascript, HTML, CSS, React, Python, Django <br><br>    ▫ Kimberj Portfolio <br><br>            -> a website to show off all finished projects<br><br>            
+      
 # 💫 About Me:
 
 I started my journey in software development back in 2004 styling <br>my personal Xanga and mySpace pages with the coolest backgrounds <br>and glitter words in town. Fast forward through high school and a <br>decade Bartending and I am back at it again having more fun then <br>ever. 
