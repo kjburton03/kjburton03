@@ -7,6 +7,7 @@ My journey in software development began in 2004 when I started styling my perso
 
 # This Weeks Projects:
 8/23/23
+
 - Responsibly Irresponsible: connecting the bank to the lists
 
 
