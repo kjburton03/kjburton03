@@ -5,13 +5,7 @@
 
 My journey in software development began in 2004 when I started styling my personal Xanga and MySpace pages with the trendiest backgrounds and captivating glitter words. After progressing through high school and spending a decade as a bartender, I've found myself immersed in software development once more, enjoying it more than ever before.
 
-# This Weeks Projects:
-8/27/23
 
-- Responsibly Irresponsible: connecting the bank to the lists, fix registration, add items to finished shopping list
-
-
-- Portfolio: Get front end up and running 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kimberburton) 
 
