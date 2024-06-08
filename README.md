@@ -5,7 +5,10 @@
 
 My journey in software development began in 2004 when I started styling my personal Xanga and MySpace pages with the trendiest backgrounds and captivating glitter words. After progressing through high school and spending a decade as a bartender, I've found myself immersed in software development once more, enjoying it more than ever before.
 
+6/8/2024
 WE'RE BACK BABY
+
+after a long unplanned urgent family matter I am back and ready to hit the ground running. Stay tuned, I've got some cool ideas brewing.
 
 
 ## 🌐 Socials:
